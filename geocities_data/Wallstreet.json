@@ -1,0 +1,68 @@
+{
+  "name": "Wallstreet",
+  "description": "Personal investing, finance, economics. Added July 1995.",
+  "url": "https://geocities.restorativland.org/Wallstreet",
+  "cards": [],
+  "total_pages": 0,
+  "burbs": [
+    {
+      "name": "Bank",
+      "url": "https://geocities.restorativland.org/Wallstreet/Bank",
+      "cards": [],
+      "total_pages": 0
+    },
+    {
+      "name": "Bureau",
+      "url": "https://geocities.restorativland.org/Wallstreet/Bureau",
+      "cards": [],
+      "total_pages": 0
+    },
+    {
+      "name": "District",
+      "url": "https://geocities.restorativland.org/Wallstreet/District",
+      "cards": [],
+      "total_pages": 0
+    },
+    {
+      "name": "Exchange",
+      "url": "https://geocities.restorativland.org/Wallstreet/Exchange",
+      "cards": [],
+      "total_pages": 0
+    },
+    {
+      "name": "Floor",
+      "url": "https://geocities.restorativland.org/Wallstreet/Floor",
+      "cards": [],
+      "total_pages": 0
+    },
+    {
+      "name": "Fund",
+      "url": "https://geocities.restorativland.org/Wallstreet/Fund",
+      "cards": [],
+      "total_pages": 0
+    },
+    {
+      "name": "Highrise",
+      "url": "https://geocities.restorativland.org/Wallstreet/Highrise",
+      "cards": [],
+      "total_pages": 0
+    },
+    {
+      "name": "Market",
+      "url": "https://geocities.restorativland.org/Wallstreet/Market",
+      "cards": [],
+      "total_pages": 0
+    },
+    {
+      "name": "Stock",
+      "url": "https://geocities.restorativland.org/Wallstreet/Stock",
+      "cards": [],
+      "total_pages": 0
+    }
+  ],
+  "total_burbs": 9,
+  "metadata": {
+    "scraped_at": "2025-03-26 01:35:35",
+    "base_url": "https://geocities.restorativland.org"
+  }
+}

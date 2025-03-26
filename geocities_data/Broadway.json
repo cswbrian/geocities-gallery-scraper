@@ -1,0 +1,874 @@
+{
+  "name": "Broadway",
+  "description": "Theater, musicals, show business. Added August 1995.",
+  "url": "https://geocities.restorativland.org/Broadway",
+  "cards": [
+    {
+      "title": "CurtainUp, Top-Rated Internet Theater Magazine of Reviews, Features, Annotated Listings",
+      "url": "Broadway/1068",
+      "last_modified": "2000-08-12",
+      "has_sound": false
+    },
+    {
+      "title": "Vanrinkl Cornish Rex Cats and Kittens",
+      "url": "Broadway/1222",
+      "last_modified": "2002-08-10",
+      "has_sound": false
+    },
+    {
+      "title": "baumantheatreforums",
+      "url": "Broadway/1723",
+      "last_modified": "2000-02-01",
+      "has_sound": false
+    },
+    {
+      "title": "broken a play",
+      "url": "Broadway/1745",
+      "last_modified": "1997-11-19",
+      "has_sound": false
+    },
+    {
+      "title": "BMT's Cinderella and Red, White and Blue Revue!",
+      "url": "Broadway/1888",
+      "last_modified": "2005-05-20",
+      "has_sound": false
+    },
+    {
+      "title": "Pookie's Place",
+      "url": "Broadway/2125",
+      "last_modified": "2000-10-23",
+      "has_sound": false
+    },
+    {
+      "title": "Pizza: with Extra Insanities!",
+      "url": "Broadway/2183",
+      "last_modified": "1999-01-07",
+      "has_sound": false
+    },
+    {
+      "title": " APOCALYPSE: O último aviso. ",
+      "url": "Broadway/2298",
+      "last_modified": "1999-10-29",
+      "has_sound": false
+    },
+    {
+      "title": "\r\n\t\t\tStarmania\r\n\t\t",
+      "url": "Broadway/2446",
+      "last_modified": "2000-10-05",
+      "has_sound": false
+    },
+    {
+      "title": "rajahutan's Home Page",
+      "url": "Broadway/2564",
+      "last_modified": "1996-12-02",
+      "has_sound": false
+    },
+    {
+      "title": "Broadway/2596",
+      "url": "Broadway/2596",
+      "last_modified": "2004-08-18",
+      "has_sound": false
+    },
+    {
+      "title": "Broadway/2794",
+      "url": "Broadway/2794",
+      "last_modified": "1999-04-13",
+      "has_sound": false
+    },
+    {
+      "title": "Welcome to stuart's PEZLAND",
+      "url": "Broadway/2831",
+      "last_modified": "2000-01-02",
+      "has_sound": false
+    },
+    {
+      "title": "Doug's Home Page",
+      "url": "Broadway/2865",
+      "last_modified": "2001-02-22",
+      "has_sound": false
+    },
+    {
+      "title": "The Code Red Mailing List Homepage",
+      "url": "Broadway/2972",
+      "last_modified": "2004-07-20",
+      "has_sound": false
+    },
+    {
+      "title": "O GOIÃS NO BRASILEIRO 98",
+      "url": "Broadway/2977",
+      "last_modified": "1998-08-18",
+      "has_sound": false
+    },
+    {
+      "title": "BOYZONE FAN PAGES",
+      "url": "Broadway/3257",
+      "last_modified": "1998-03-19",
+      "has_sound": false
+    },
+    {
+      "title": "PCMUSICMAN",
+      "url": "Broadway/3261",
+      "last_modified": "2002-03-07",
+      "has_sound": false
+    },
+    {
+      "title": "vsf",
+      "url": "Broadway/3300",
+      "last_modified": "1999-12-24",
+      "has_sound": false
+    },
+    {
+      "title": "Factual Â® - DicionÃ¡rio de Historia Medieval",
+      "url": "Broadway/3367",
+      "last_modified": "1999-06-01",
+      "has_sound": false
+    },
+    {
+      "title": "Magna Carta",
+      "url": "Broadway/3389",
+      "last_modified": "1998-08-03",
+      "has_sound": false
+    },
+    {
+      "title": "(untitled)",
+      "url": "Broadway/3464",
+      "last_modified": "1998-09-23",
+      "has_sound": false
+    },
+    {
+      "title": "Untitled Document",
+      "url": "Broadway/3680",
+      "last_modified": "1999-09-30",
+      "has_sound": false
+    },
+    {
+      "title": "Susi's Ace of Base Home Site",
+      "url": "Broadway/3777",
+      "last_modified": "2004-11-22",
+      "has_sound": false
+    },
+    {
+      "title": "Tjandrawan's Homepage",
+      "url": "Broadway/3891",
+      "last_modified": "1999-02-20",
+      "has_sound": false
+    },
+    {
+      "title": "The Paul Skotarski Home Page",
+      "url": "Broadway/4012",
+      "last_modified": "2001-11-23",
+      "has_sound": false
+    },
+    {
+      "title": "chalkee's Home Page",
+      "url": "Broadway/4392",
+      "last_modified": "1997-01-17",
+      "has_sound": false
+    },
+    {
+      "title": "Atlético Paranaense e suas GlÃ³rias!",
+      "url": "Broadway/4605",
+      "last_modified": "1997-11-21",
+      "has_sound": false
+    },
+    {
+      "title": "SHARP INTERNATIONAL",
+      "url": "Broadway/4697",
+      "last_modified": "1999-01-12",
+      "has_sound": false
+    },
+    {
+      "title": "WE MOVED",
+      "url": "Broadway/4794",
+      "last_modified": "1997-12-19",
+      "has_sound": false
+    },
+    {
+      "title": "HOME PAGE DO GRUPO ENGARRAFAMENTO",
+      "url": "Broadway/4901",
+      "last_modified": "1997-10-15",
+      "has_sound": false
+    },
+    {
+      "title": "MonicaP's Home Page",
+      "url": "Broadway/4967",
+      "last_modified": "2000-02-16",
+      "has_sound": false
+    },
+    {
+      "title": "Page Title",
+      "url": "Broadway/5244",
+      "last_modified": "2000-04-15",
+      "has_sound": false
+    },
+    {
+      "title": "Nikunj Patel´s homepage",
+      "url": "Broadway/5565",
+      "last_modified": "1997-10-30",
+      "has_sound": false
+    },
+    {
+      "title": "Darrin's Land of Floyd",
+      "url": "Broadway/5642",
+      "last_modified": "1997-05-06",
+      "has_sound": false
+    },
+    {
+      "title": "\nWelcome To My Cyber-Hell!!\n",
+      "url": "Broadway/5672",
+      "last_modified": "1997-07-12",
+      "has_sound": false
+    },
+    {
+      "title": "Comedy Classics",
+      "url": "Broadway/5710",
+      "last_modified": "1997-09-08",
+      "has_sound": false
+    },
+    {
+      "title": "Vítejte na DejnovÃ¬ strÃ¡nce!",
+      "url": "Broadway/5757",
+      "last_modified": "1998-04-22",
+      "has_sound": false
+    },
+    {
+      "title": "NOS:",
+      "url": "Broadway/5863",
+      "last_modified": "1999-10-15",
+      "has_sound": false
+    },
+    {
+      "title": "Maskarada Antzerki Taldea |||||||||||||||||||| www.maskarada.net",
+      "url": "Broadway/5997",
+      "last_modified": "2001-01-22",
+      "has_sound": false
+    },
+    {
+      "title": "five past midnight",
+      "url": "Broadway/6320",
+      "last_modified": "1998-03-08",
+      "has_sound": false
+    },
+    {
+      "title": "index",
+      "url": "Broadway/6575",
+      "last_modified": "2005-01-17",
+      "has_sound": false
+    },
+    {
+      "title": "Peter DIN Artiste - Ventriloque Magicien Sculpteur sur ballons",
+      "url": "Broadway/6602",
+      "last_modified": "2000-05-11",
+      "has_sound": false
+    },
+    {
+      "title": "O-TOWNonline.COM________fAN sITE at ur own risk. ",
+      "url": "Broadway/6724",
+      "last_modified": "2001-07-14",
+      "has_sound": false
+    },
+    {
+      "title": "Msaed Al-Yaseen's Home Page",
+      "url": "Broadway/7100",
+      "last_modified": "2005-09-05",
+      "has_sound": false
+    },
+    {
+      "title": "Hierarchical Punish - Death Metal / Grindcore Band.",
+      "url": "Broadway/7234",
+      "last_modified": "1999-11-12",
+      "has_sound": false
+    },
+    {
+      "title": "Arly's home page",
+      "url": "Broadway/7259",
+      "last_modified": "2001-12-16",
+      "has_sound": false
+    },
+    {
+      "title": "ESOTÉRICA",
+      "url": "Broadway/7366",
+      "last_modified": "2002-01-02",
+      "has_sound": false
+    },
+    {
+      "title": "The Smashing Pumpkins Brazilian Site",
+      "url": "Broadway/7506",
+      "last_modified": "2005-09-06",
+      "has_sound": false
+    },
+    {
+      "title": "Roudelet Felibren de CastÃ©u-Gombert",
+      "url": "Broadway/7816",
+      "last_modified": "1997-05-12",
+      "has_sound": false
+    },
+    {
+      "title": "the Skadaddles - Spirit-filled Ska!!!",
+      "url": "Broadway/7867",
+      "last_modified": "1998-12-16",
+      "has_sound": false
+    },
+    {
+      "title": "PÂ gina Chistera de Ramon Padilla",
+      "url": "Broadway/7894",
+      "last_modified": "2003-04-09",
+      "has_sound": false
+    },
+    {
+      "title": "Zeo Rangers'",
+      "url": "Broadway/8309",
+      "last_modified": "1999-03-24",
+      "has_sound": false
+    },
+    {
+      "title": "M's Castle on a Cloud",
+      "url": "Broadway/8440",
+      "last_modified": "1997-12-16",
+      "has_sound": false
+    },
+    {
+      "title": "Cargando...",
+      "url": "Broadway/8649",
+      "last_modified": "1997-03-06",
+      "has_sound": false
+    },
+    {
+      "title": "KaoLao Magazine",
+      "url": "Broadway/8787",
+      "last_modified": "1998-07-19",
+      "has_sound": false
+    },
+    {
+      "title": "Joy's Homepage",
+      "url": "Broadway/9041",
+      "last_modified": "1998-02-18",
+      "has_sound": false
+    },
+    {
+      "title": "Broadway/9313",
+      "url": "Broadway/9313",
+      "last_modified": "1997-10-05",
+      "has_sound": false
+    },
+    {
+      "title": "The UnNamed Theatre",
+      "url": "Broadway/9361",
+      "last_modified": "1998-07-09",
+      "has_sound": false
+    },
+    {
+      "title": "A turma de doidos",
+      "url": "Broadway/9461",
+      "last_modified": "1997-05-31",
+      "has_sound": false
+    },
+    {
+      "title": "The mighty tim's page",
+      "url": "Broadway/9677",
+      "last_modified": "2000-01-24",
+      "has_sound": false
+    },
+    {
+      "title": "The Glamourous Gigi Fu Homepage",
+      "url": "Broadway/9942",
+      "last_modified": "1998-12-17",
+      "has_sound": false
+    }
+  ],
+  "total_pages": 62,
+  "burbs": [
+    {
+      "name": "Alley",
+      "url": "https://geocities.restorativland.org/Broadway/Alley",
+      "cards": [
+        {
+          "title": "Untitled",
+          "url": "Broadway/Alley/1054",
+          "last_modified": "1999-12-15",
+          "has_sound": false
+        },
+        {
+          "title": "Cayack's Stagedoor Cafe",
+          "url": "Broadway/Alley/1344",
+          "last_modified": "2003-04-15",
+          "has_sound": false
+        },
+        {
+          "title": "Amy's Fatal Love",
+          "url": "Broadway/Alley/1410",
+          "last_modified": "2000-04-24",
+          "has_sound": false
+        },
+        {
+          "title": " The Last Session / Steve Schalchlin Fan Club ",
+          "url": "Broadway/Alley/1647",
+          "last_modified": "1998-01-10",
+          "has_sound": false
+        },
+        {
+          "title": "NEW! Music That Roxx Webring ",
+          "url": "Broadway/Alley/2058",
+          "last_modified": "1998-03-31",
+          "has_sound": false
+        },
+        {
+          "title": "~*~Welcome to the Carter Planet~*~",
+          "url": "Broadway/Alley/2182",
+          "last_modified": "2001-10-06",
+          "has_sound": false
+        },
+        {
+          "title": "Elmo's Homepage\n",
+          "url": "Broadway/Alley/2613",
+          "last_modified": "1998-05-15",
+          "has_sound": false
+        },
+        {
+          "title": "B I E N V E N I D O - A - L A - P Á G I N A - D E - M A N O L O",
+          "url": "Broadway/Alley/2764",
+          "last_modified": "2000-03-31",
+          "has_sound": false
+        },
+        {
+          "title": "¿WÂ½Ã¦Â·sÂ»D Onlynews",
+          "url": "Broadway/Alley/3131",
+          "last_modified": "2004-06-30",
+          "has_sound": false
+        },
+        {
+          "title": "index",
+          "url": "Broadway/Alley/3886",
+          "last_modified": "1998-05-16",
+          "has_sound": false
+        },
+        {
+          "title": "Josh's Theatre Page",
+          "url": "Broadway/Alley/4003",
+          "last_modified": "2003-04-07",
+          "has_sound": false
+        },
+        {
+          "title": "HIP HOP WEB- hip hop italiano autoproduzioni mixtape vestax gemini demo cd lp ep rap rap music scratch scretch Dj skizo dj inesha dj tayone dj gruff zona dopa sangue misto otr gente guasta area cronica lyricalz atpc tsu principe sly rula fede daffa rome zoo cina gufo sparo piotta robba coatta film video mp3 real audio mpeg video rap italiani la pina sottotono tormento fish jasmine articolo 31 gdv gemelli di versi spaghetti funk",
+          "url": "Broadway/Alley/4281",
+          "last_modified": "2000-03-02",
+          "has_sound": false
+        },
+        {
+          "title": "jessicasandy's theatre page",
+          "url": "Broadway/Alley/5412",
+          "last_modified": "2002-02-04",
+          "has_sound": false
+        },
+        {
+          "title": "Under Construction",
+          "url": "Broadway/Alley/5537",
+          "last_modified": "2002-12-06",
+          "has_sound": false
+        },
+        {
+          "title": "The Disney Villain's Lair",
+          "url": "Broadway/Alley/5658",
+          "last_modified": "2000-02-06",
+          "has_sound": false
+        },
+        {
+          "title": "main",
+          "url": "Broadway/Alley/5878",
+          "last_modified": "1998-10-10",
+          "has_sound": false
+        },
+        {
+          "title": "Comellas Home Page",
+          "url": "Broadway/Alley/5894",
+          "last_modified": "2002-11-30",
+          "has_sound": false
+        },
+        {
+          "title": "Beaverton Town Hall Players",
+          "url": "Broadway/Alley/6601",
+          "last_modified": "2000-05-09",
+          "has_sound": false
+        },
+        {
+          "title": "ERIN'S NIFTY BROADWAY  PAGE",
+          "url": "Broadway/Alley/6669",
+          "last_modified": "2002-02-01",
+          "has_sound": false
+        },
+        {
+          "title": "Broadway/Alley/7213",
+          "url": "Broadway/Alley/7213",
+          "last_modified": "1998-08-09",
+          "has_sound": false
+        },
+        {
+          "title": "index",
+          "url": "Broadway/Alley/7434",
+          "last_modified": "1998-07-10",
+          "has_sound": false
+        },
+        {
+          "title": "Bad Religion - Hardcore Best Of",
+          "url": "Broadway/Alley/7520",
+          "last_modified": "1998-04-13",
+          "has_sound": false
+        },
+        {
+          "title": "Andrea Gervais' Home Page",
+          "url": "Broadway/Alley/8611",
+          "last_modified": "1998-09-29",
+          "has_sound": false
+        },
+        {
+          "title": "Ì©oÂÂµ",
+          "url": "Broadway/Alley/8845",
+          "last_modified": "1999-04-01",
+          "has_sound": false
+        },
+        {
+          "title": "Broadway/Alley/9128",
+          "url": "Broadway/Alley/9128",
+          "last_modified": "1998-05-20",
+          "has_sound": false
+        },
+        {
+          "title": "Bollywood Navel Mela",
+          "url": "Broadway/Alley/9157",
+          "last_modified": "2001-03-16",
+          "has_sound": false
+        }
+      ],
+      "total_pages": 26
+    },
+    {
+      "name": "Balcony",
+      "url": "https://geocities.restorativland.org/Broadway/Balcony",
+      "cards": [
+        {
+          "title": "æ¤°å­å±",
+          "url": "Broadway/Balcony/1157",
+          "last_modified": "2001-08-13",
+          "has_sound": false
+        },
+        {
+          "title": "The Caving in of Heads",
+          "url": "Broadway/Balcony/1600",
+          "last_modified": "2002-05-20",
+          "has_sound": false
+        },
+        {
+          "title": "èèé£",
+          "url": "Broadway/Balcony/1691",
+          "last_modified": "1999-10-15",
+          "has_sound": false
+        },
+        {
+          "title": "The First Ever Dawson's Creek Wave File Site",
+          "url": "Broadway/Balcony/2478",
+          "last_modified": "2001-05-18",
+          "has_sound": false
+        },
+        {
+          "title": "index",
+          "url": "Broadway/Balcony/3172",
+          "last_modified": "1999-09-18",
+          "has_sound": false
+        },
+        {
+          "title": "SuperDuck's Laboratory",
+          "url": "Broadway/Balcony/3652",
+          "last_modified": "2000-10-16",
+          "has_sound": false
+        },
+        {
+          "title": "These are a few of 'My Favourite Things'",
+          "url": "Broadway/Balcony/3851",
+          "last_modified": "1999-06-12",
+          "has_sound": false
+        },
+        {
+          "title": "index",
+          "url": "Broadway/Balcony/4653",
+          "last_modified": "1999-01-31",
+          "has_sound": false
+        },
+        {
+          "title": "Amy's Place",
+          "url": "Broadway/Balcony/4969",
+          "last_modified": "2000-06-01",
+          "has_sound": false
+        },
+        {
+          "title": " Greatest Aishwariya Rai Page ever ",
+          "url": "Broadway/Balcony/5339",
+          "last_modified": "2005-11-15",
+          "has_sound": false
+        },
+        {
+          "title": "²ÃÂ»Â¡Â¨ÃÃÂ¸",
+          "url": "Broadway/Balcony/5528",
+          "last_modified": "1999-07-07",
+          "has_sound": false
+        },
+        {
+          "title": "THEATRE UNIVERSE",
+          "url": "Broadway/Balcony/5705",
+          "last_modified": "2004-12-12",
+          "has_sound": false
+        },
+        {
+          "title": "The Luv2LuvDemBoys BSB EXTRAVAGANZA!!",
+          "url": "Broadway/Balcony/7318",
+          "last_modified": "1999-06-01",
+          "has_sound": false
+        },
+        {
+          "title": "ENTER SILLIANGELS SITE",
+          "url": "Broadway/Balcony/8603",
+          "last_modified": "1999-03-15",
+          "has_sound": false
+        },
+        {
+          "title": "DE TUDO UM POUCO HOME PAGE",
+          "url": "Broadway/Balcony/8834",
+          "last_modified": "1999-10-02",
+          "has_sound": false
+        },
+        {
+          "title": "NICK ONLINE MAIN",
+          "url": "Broadway/Balcony/8885",
+          "last_modified": "1999-02-19",
+          "has_sound": false
+        },
+        {
+          "title": " Casaloma's Castle  ",
+          "url": "Broadway/Balcony/9519",
+          "last_modified": "2004-05-19",
+          "has_sound": false
+        }
+      ],
+      "total_pages": 17
+    },
+    {
+      "name": "Booth",
+      "url": "https://geocities.restorativland.org/Broadway/Booth",
+      "cards": [
+        {
+          "title": "The 98th Degree",
+          "url": "Broadway/Booth/3498",
+          "last_modified": "2000-12-09",
+          "has_sound": false
+        },
+        {
+          "title": "\"I'm Movin' On\"",
+          "url": "Broadway/Booth/5648",
+          "last_modified": "2005-09-05",
+          "has_sound": false
+        },
+        {
+          "title": "Meus Favoritos",
+          "url": "Broadway/Booth/7473",
+          "last_modified": "2002-08-29",
+          "has_sound": false
+        }
+      ],
+      "total_pages": 3
+    },
+    {
+      "name": "Lobby",
+      "url": "https://geocities.restorativland.org/Broadway/Lobby",
+      "cards": [
+        {
+          "title": "The Angel of Music",
+          "url": "Broadway/Lobby/3257",
+          "last_modified": "2000-06-11",
+          "has_sound": false
+        },
+        {
+          "title": "TLKoB Fanfiction",
+          "url": "Broadway/Lobby/6666",
+          "last_modified": "1999-11-25",
+          "has_sound": false
+        },
+        {
+          "title": "Flamingo Stampede",
+          "url": "Broadway/Lobby/8921",
+          "last_modified": "2000-10-11",
+          "has_sound": false
+        }
+      ],
+      "total_pages": 3
+    },
+    {
+      "name": "Orchestra",
+      "url": "https://geocities.restorativland.org/Broadway/Orchestra",
+      "cards": [
+        {
+          "title": "Delfin",
+          "url": "Broadway/Orchestra/1754",
+          "last_modified": "2001-01-10",
+          "has_sound": false
+        },
+        {
+          "title": "New Page 1",
+          "url": "Broadway/Orchestra/1980",
+          "last_modified": "1999-10-30",
+          "has_sound": false
+        },
+        {
+          "title": "LANKETT Page",
+          "url": "Broadway/Orchestra/4920",
+          "last_modified": "2002-06-02",
+          "has_sound": false
+        }
+      ],
+      "total_pages": 3
+    },
+    {
+      "name": "Stage",
+      "url": "https://geocities.restorativland.org/Broadway/Stage",
+      "cards": [
+        {
+          "title": "Bon Jovi World - Download",
+          "url": "Broadway/Stage/1040",
+          "last_modified": "2000-05-18",
+          "has_sound": false
+        },
+        {
+          "title": "Your Mother's Favorite Home Page.",
+          "url": "Broadway/Stage/1806",
+          "last_modified": "1999-07-13",
+          "has_sound": false
+        },
+        {
+          "title": "A Twist from Within...",
+          "url": "Broadway/Stage/2268",
+          "last_modified": "2001-03-25",
+          "has_sound": false
+        },
+        {
+          "title": "Backstreet's Back Everybody",
+          "url": "Broadway/Stage/2410",
+          "last_modified": "1997-08-31",
+          "has_sound": false
+        },
+        {
+          "title": "Fiesta City Chorus",
+          "url": "Broadway/Stage/3027",
+          "last_modified": "2002-05-27",
+          "has_sound": false
+        },
+        {
+          "title": "Citizen Al",
+          "url": "Broadway/Stage/3340",
+          "last_modified": "1999-04-10",
+          "has_sound": false
+        },
+        {
+          "title": "cosette1",
+          "url": "Broadway/Stage/3624",
+          "last_modified": "1999-05-25",
+          "has_sound": false
+        },
+        {
+          "title": "Jessica's home page\\index",
+          "url": "Broadway/Stage/3848",
+          "last_modified": "2002-11-28",
+          "has_sound": false
+        },
+        {
+          "title": "Ben Johnsen",
+          "url": "Broadway/Stage/5578",
+          "last_modified": "1999-12-11",
+          "has_sound": false
+        },
+        {
+          "title": "Lake Central Theatre Guild Web Page",
+          "url": "Broadway/Stage/6515",
+          "last_modified": "2004-07-11",
+          "has_sound": false
+        },
+        {
+          "title": "La page des Backstreet Boys de Kate",
+          "url": "Broadway/Stage/6617",
+          "last_modified": "2001-09-24",
+          "has_sound": false
+        },
+        {
+          "title": "Universal Performers",
+          "url": "Broadway/Stage/6970",
+          "last_modified": "1999-10-17",
+          "has_sound": false
+        },
+        {
+          "title": "La page de Nick Carter",
+          "url": "Broadway/Stage/7166",
+          "last_modified": "1999-05-18",
+          "has_sound": false
+        },
+        {
+          "title": "hollygoodhead 's Home Page",
+          "url": "Broadway/Stage/8517",
+          "last_modified": "2001-08-31",
+          "has_sound": false
+        },
+        {
+          "title": "\ntransendentalistic\n",
+          "url": "Broadway/Stage/8799",
+          "last_modified": "1999-04-27",
+          "has_sound": false
+        }
+      ],
+      "total_pages": 15
+    },
+    {
+      "name": "Wing",
+      "url": "https://geocities.restorativland.org/Broadway/Wing",
+      "cards": [
+        {
+          "title": "Yvonne's Home Page",
+          "url": "Broadway/Wing/1362",
+          "last_modified": "2002-11-29",
+          "has_sound": false
+        },
+        {
+          "title": "Bay's P/C Pictures",
+          "url": "Broadway/Wing/1796",
+          "last_modified": "2002-10-15",
+          "has_sound": false
+        },
+        {
+          "title": "index",
+          "url": "Broadway/Wing/2542",
+          "last_modified": "2001-05-23",
+          "has_sound": false
+        },
+        {
+          "title": "Toyo3ÃÂÃ¦ÂÃ©KONY ArtÂÂÂÃÂÃÂÃ®",
+          "url": "Broadway/Wing/2740",
+          "last_modified": "1999-01-30",
+          "has_sound": false
+        },
+        {
+          "title": "Who's that sexy guy...Who else Nick Carter!",
+          "url": "Broadway/Wing/3870",
+          "last_modified": "2002-05-25",
+          "has_sound": false
+        },
+        {
+          "title": "M y s t e r y",
+          "url": "Broadway/Wing/5132",
+          "last_modified": "1999-12-09",
+          "has_sound": false
+        }
+      ],
+      "total_pages": 6
+    }
+  ],
+  "total_burbs": 7,
+  "metadata": {
+    "scraped_at": "2025-03-26 00:28:01",
+    "base_url": "https://geocities.restorativland.org"
+  }
+}
