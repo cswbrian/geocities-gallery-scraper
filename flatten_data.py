@@ -38,6 +38,7 @@ def flatten_geocities_data(input_dir: str, output_file: str, chunk_size: int = 1
                     'title': card['title'],
                     'url': card['url'],
                     'has_sound': card.get('has_sound', False),
+                    'last_modified': card.get('last_modified'),
                     'source': {
                         't': 'h',  # shortened 'type': 'hood'
                         'h': hood_name  # shortened 'hood_name'
@@ -51,6 +52,7 @@ def flatten_geocities_data(input_dir: str, output_file: str, chunk_size: int = 1
                         'title': card['title'],
                         'url': card['url'],
                         'has_sound': card.get('has_sound', False),
+                        'last_modified': card.get('last_modified'),
                         'source': {
                             't': 'b',  # shortened 'type': 'burb'
                             'h': hood_name,  # shortened 'hood_name'
